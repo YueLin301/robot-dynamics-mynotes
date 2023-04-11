@@ -1,6 +1,6 @@
 ## robot-dynamics-mynotes
 
-Below are some small experiments related to dynamics. 
+Below are some small experiments related to dynamics. Unfortunately, a **large** amount of code I wrote cannot be made public, because the original laboratory will continue to conduct related research. `:(`
 
 The motor cannot be moved by hand by default and can only control current or position. 
 However, by utilizing sensors embedded within the motor and some knowledge of dynamics, human-machine interaction features can be achieved. 
